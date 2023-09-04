@@ -5,7 +5,7 @@ I had to make this project 3 times from the bottom just because my code got all 
 I will add more feature soon.
 
 Thankyou Coding Ninjas for giving this wonderful and challenging project. 
-###### Live link:   https://udit199.github.io/IMDB-Clone/
+
 
 
 ## Preview
